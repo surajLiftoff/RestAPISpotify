@@ -7,8 +7,6 @@ form.addEventListener('submit', e => {
     getArtist();
 });
 
-
-
 async function getArtist() {
     let artistName = artist.value;
     const token = 'BQCpe7ZsOeeMitjO0O85gCxO2kQwGBrb_f46-Ym6f0sKwSMlH3lEnexvBNVIjfqNtY-IFoyRvp5ZF3bHQdQWZnUbjQY8N25vPPFa_wzJ1_iFgluki077wnPRKNjA2w9EPBj_lQUEqQrltcHTmuu_VCupTE3bH7bBjpQ';
