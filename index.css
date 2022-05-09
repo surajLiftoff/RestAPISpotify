@@ -1,0 +1,21 @@
+body {
+    background-color: #d594c1;
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+td {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+}
+
+.form {
+    padding: 30px 40px;
+}
+
+.artistTable {
+    padding: 30px 40px;
+}
